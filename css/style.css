@@ -1,0 +1,32 @@
+body {
+    background-color: lightslategray;
+}
+
+h1 {
+    background-color: olivedrab;
+}
+h1 + p {
+    background-color: tomato;
+}
+h2 {
+    background-color: purple;
+}
+h2 + p {
+    background-color: royalblue;
+}
+ol {
+    background-color: teal;
+}
+
+#kolor1 {
+    color: springgreen;
+}
+#kolor2 {
+    color: wheat;
+}
+#kolor3 {
+    color: saddlebrown;
+}
+#kolor4 {
+    color: slateblue;
+}
